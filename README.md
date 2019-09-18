@@ -7,6 +7,7 @@ Personal Altium components library.
 |-------------|----------|
 |STM32F103C8T | LQFP48_N |
 |STM32F411CEU | UFQFPN48 |
+|ESP32-D0WDQ6 | QFN48 P.4|
 
 ### ICs:
 | Name           | Package       |
@@ -29,3 +30,5 @@ Personal Altium components library.
 
 ### etc:
 + SS34
++ BH-10 SMD 1.27mm
++ BH-10 R 1.27mm
