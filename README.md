@@ -32,3 +32,5 @@ Personal Altium components library.
 + SS34
 + BH-10 SMD 1.27mm
 + BH-10 R 1.27mm
++ SMA-F parallel
++ LM2569S Module
