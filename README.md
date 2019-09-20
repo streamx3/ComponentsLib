@@ -16,6 +16,7 @@ Personal Altium components library.
 | CP2102-GM      | QFN-28        |
 | PRTR5V0U2X.215 | SOT143B       |
 | MC33269DG      | SO-8          |
+| BQ24751        | QFN-28        |
 
 ### Sensors:
 + BME280
@@ -34,3 +35,13 @@ Personal Altium components library.
 + BH-10 R 1.27mm
 + SMA-F parallel
 + LM2569S Module
+
+#### TODO:
++ FDS6680A
++ SI4435
+
++ TUSB2046B
++ SN75240A
++ TPS2044 or equivalent 4 channel overcurrent protection IC
+
++ PI Zero W
