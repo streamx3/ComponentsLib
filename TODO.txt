@@ -1,0 +1,3 @@
+- Extend pads for QFN24-4x4x0.9. Chip is slightly shifted -- it is not enough spage to work from all sides
+- Fix package for SOT-666 and/or USBLC6-whatever in that package
+- Create proper Layerpairs
